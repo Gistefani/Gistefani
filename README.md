@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 ✨Hi 👋, I'm Gisele
 A passionate frontend developer from Argentina
@@ -16,7 +16,7 @@ Programming Languages
 ![image](https://github.com/Gistefani/Gistefani/assets/113151805/5ebb2bea-6244-4761-a477-8b4abe25325c)
 
 
--->
+
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
