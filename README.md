@@ -1,18 +1,21 @@
 ### Hi there 👋
 
 <!--
-**Gistefani/Gistefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+✨Hi 👋, I'm Gisele
+A passionate frontend developer from Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning a Fullstack developer.
+
+📫 How to reach me :  stefanigise@gmail.com or https://www.linkedin.com/in/gisele-stefani/
+
+👨‍💻 All of my projects are available at https://github.com/Gistefani
+
+Skills
+Programming Languages
+![image](https://github.com/Gistefani/Gistefani/assets/113151805/5ebb2bea-6244-4761-a477-8b4abe25325c)
+
+
 -->
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
