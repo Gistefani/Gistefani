@@ -29,7 +29,6 @@ Programming Languages
 ###Database
 
 ![image](https://github.com/Gistefani/Gistefani/assets/113151805/a8ca2239-bbaf-485a-8703-5cd041b36bc1)
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/7eba15a5-6b21-4b7d-8793-616fe84558ed)
 
 ###Framework
 
