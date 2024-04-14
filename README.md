@@ -32,10 +32,10 @@ Programming Languages
 
 ###Framework
 
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/3f35b83b-7930-432d-8c20-48cc4ae014c2)
+![image](https://github.com/Gistefani/Gistefani/assets/113151805/fef5c6d7-93c5-43f8-9f21-e3704040237f)
+
 
 ###Social
 
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/59958c79-0cc2-44e5-8c72-78c9a229ffb0)
 https://www.linkedin.com/in/gisele-stefani/
 
