@@ -31,9 +31,6 @@ Programming Languages
 ![image](https://github.com/Gistefani/Gistefani/assets/113151805/a8ca2239-bbaf-485a-8703-5cd041b36bc1)
 
 ###Framework
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/c275f13b-79c0-4e7d-9508-482c87909e85)
-
-
 
 ###Social
 
