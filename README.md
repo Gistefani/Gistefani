@@ -1,5 +1,5 @@
 ###✨Hi 👋, I'm Gisele
-I'm frontend developer from Argentina.
+I'm developer from Argentina.
 
 🌱 I’m currently learning a Fullstack developer,React.
 
