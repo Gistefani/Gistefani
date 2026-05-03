@@ -1,38 +1,37 @@
-###✨Hi 👋, I'm Gisele
-I'm developer from Argentina.
+# Hola, soy Gisele 👋
 
-🌱 I’m currently learning a Fullstack developer,React.
+Soy desarrolladora Frontend de Córdoba, Argentina. 
+Vengo del mundo administrativo y hace algunos años decidí 
+apostar por la programación, algo que venía estudiando 
+en paralelo desde hace tiempo.
 
-📫 How to reach me :  stefanigise@gmail.com 
+Estoy terminando la Tecnicatura en Programación en la UTN 
+y me queda cada vez más claro que el frontend es lo mío, 
+aunque no le tengo miedo al backend.
 
-👨‍💻 All of my projects are available at https://github.com/Gistefani
+## 🛠️ Con qué trabajo
 
-###Skills
-Programming Languages
+**Frontend**
+HTML · CSS · JavaScript · TypeScript · React · Bootstrap
 
- ![image](https://github.com/Gistefani/Gistefani/assets/113151805/5ebb2bea-6244-4761-a477-8b4abe25325c)>
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/6cbdc0bc-bfc1-49eb-8202-8cac102f5e8a)
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/0d31d401-5633-470a-b463-c2deb5564166)
+**Backend**
+Java · Spring Boot · Python
 
-###Frontend Development
+**Base de datos**
+MySQL
 
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/df8986ba-2d63-4270-aa3b-87db8e3bd309)
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/3411ac0f-d66b-4846-b281-47706656bd1a)
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/45991274-e92c-4841-99a1-ce21ac58a9ed)
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/5cb8ab42-ee55-4cc1-98dd-b1cee0df3211)
+**Herramientas**
+Git · GitHub · Vite
 
-###Backend Development
+## 🌱 En qué estoy ahora
 
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/0d5d1ada-1be2-4034-90b2-5a266b6390f7)
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/00c486df-ee9a-4cfd-88d9-ff1e60523a51)
+Cursando el anteúltimo cuatrimestre de la Tecnicatura en la UTN. 
+Actualmente desarrollando un proyecto de e-commerce con 
+TypeScript y localStorage para una de las materias.
+Buscando mi primera experiencia laboral en IT.
 
-###Database
+## 📫 Contacto
 
-![image](https://github.com/Gistefani/Gistefani/assets/113151805/a8ca2239-bbaf-485a-8703-5cd041b36bc1)
-
-###Framework
-
-###Social
-
-https://www.linkedin.com/in/gisele-stefani/
+[LinkedIn](https://www.linkedin.com/in/gisele-stefani/) 
+stefanigise@gmail.com
 
