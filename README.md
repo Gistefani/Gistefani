@@ -1,6 +1,6 @@
 # Hola, soy Gisele 👋
 
-Soy desarrolladora Frontend de Córdoba, Argentina. 
+Soy desarrolladora de Córdoba, Argentina. 
 Vengo del mundo administrativo y hace algunos años decidí 
 apostar por la programación, algo que venía estudiando 
 en paralelo desde hace tiempo.
